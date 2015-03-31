@@ -1,6 +1,6 @@
 public class MyMatrixElem implements MatrixElem {
 	int row; // row index
-	int col; // col index
+	int col; // column index
 	MyMatrixElem nextRow;
 	MyMatrixElem nextCol;
 	Object data;
